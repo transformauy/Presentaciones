@@ -1,0 +1,17 @@
+]0;/home/vburguete/Trabajos/Varios/Presentaciones]0;vburguete@r-sntpc-desa: ~/Trabajos/Varios/Presentacionesvburguete@r-sntpc-desa:~/Trabajos/Varios/Presentaciones$ git init
+Initialized empty Git repository in /home/vburguete/Trabajos/Varios/Presentaciones/.git/
+]0;/home/vburguete/Trabajos/Varios/Presentaciones]0;vburguete@r-sntpc-desa: ~/Trabajos/Varios/Presentacionesvburguete@r-sntpc-desa:~/Trabajos/Varios/Presentaciones$ git add[K[K[Kstatus
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rhistory[m
+	[31m.Rproj.user/[m
+	[31mPresentaciones.Rproj[m
+	[31mpackages/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;/home/vburguete/Trabajos/Varios/Presentaciones]0;vburguete@r-sntpc-desa: ~/Trabajos/Varios/Presentacionesvburguete@r-sntpc-desa:~/Trabajos/Varios/Presentaciones$ git add --all
